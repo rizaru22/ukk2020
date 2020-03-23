@@ -1,5 +1,5 @@
 <?php
-define('BASEURL','http://localhost/ppdb/public/');
+define('BASEURL','http://localhost/ukk2020/public/');
 //Database
 
 define('DB_HOST','localhost');

@@ -23,6 +23,7 @@
             <h1 class="text-center">Halaman Masyarakat</h1>
         <p> Selamat datang <?= $_SESSION['nama']; ?></p>
         <a href="<?= BASEURL; ?>auth/logout" class="btn btnl-lg btn-warning"> LogOut </a>
+        <a href="<?= BASEURL; ?>UC_Masyarakat/pengaduan" class="btn btnl-lg btn-primary"> Buat Pengaduan </a>
             </div>
     </div>
         
